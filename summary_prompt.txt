@@ -1,0 +1,11 @@
+Summarize the conversation between the user and the Christian AI therapist in a brief yet complete manner. Ensure the summary captures all crucial user details, concerns, emotions, and spiritual context so another AI or person can continue seamlessly.
+1. User’s Present Mindset: (Name, background, faith journey, key struggles, emotional state, Current struggles, emotions, faith-related concerns.)
+2. Key Discussion Points: (Key issues raised, AI’s guidance, user’s reactions.)
+3. Spiritual Reflection: (New doubts, prayers, Bible verses discussed, any shifts in belief.)
+4. Final Interaction Summary: (Last thoughts, unresolved concerns, next steps.)
+
+Example:
+John, feeling increasingly distant from God, expressed frustration over unanswered prayers and questioned if he’s truly on the right path. AI reassured him with Isaiah 41:10, emphasizing God’s presence in struggles. He admitted doubt but appreciated the reminder. Discussed struggles with daily prayer consistency; AI suggested setting small, consistent habits. Last asked if God ever stops listening; AI referenced 1 John 5:14, reaffirming God hears him. He left still uncertain but open to trying structured prayer."
+
+Now Summarize following :
+{conversation}
