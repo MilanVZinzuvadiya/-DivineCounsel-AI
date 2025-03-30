@@ -5,8 +5,7 @@ import boto3
 aws_client = boto3.client("secretsmanager", region_name="us-east-1")
 response = aws_client.get_secret_value(SecretId="openai_llm_key")
 secret = json.loads(response["SecretString"])
-print("Secret is : ",secret)
-client = OpenAI(api_key=secret["api_key"])
+client = OpenAI(api_key=secret["OPENAI_KEY"])
 
 
 
