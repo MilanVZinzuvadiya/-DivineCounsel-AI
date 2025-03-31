@@ -10,6 +10,8 @@ st.set_page_config(
     }
 )
 st.subheader("✝️ Divine Counsel ✝️")
+#st.markdown('<p style="font-size: 12px;">Empowered by Faith, Inspired by AI</p>', unsafe_allow_html=True)
+st.markdown('<p style="font-size: 10px;">Developed by: Milan Zinzuvadiya</p>', unsafe_allow_html=True)
 hide_streamlit_style = """
 <style>
 .stAppToolbar {visibility: hidden;}
